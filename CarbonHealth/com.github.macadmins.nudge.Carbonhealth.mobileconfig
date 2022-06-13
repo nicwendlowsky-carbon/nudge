@@ -69,9 +69,9 @@
             <key>majorUpgradeAppPath</key>
             <string>/Applications/Install macOS Monterey.app</string>
             <key>requiredInstallationDate</key>
-            <date>2022-03-09T00:00:00Z</date>
+            <date>2022-07-31T00:00:00Z</date>
             <key>requiredMinimumOSVersion</key>
-            <string>13.0</string>
+            <string>12.4</string>
             <key>targetedOSVersionsRule</key>
             <string>default</string>
           </dict>
