@@ -45,31 +45,31 @@
                 <key>_language</key>
                 <string>en</string>
                 <key>aboutUpdateURL</key>
-                <string>https://support.apple.com/en-us/HT212585#macos1221</string>
+                <string>https://support.apple.com/en-us/HT212585#macos124</string>
               </dict>
               <dict>
                 <key>_language</key>
                 <string>es</string>
                 <key>aboutUpdateURL</key>
-                <string>https://support.apple.com/es-es/HT212585#macos1221</string>
+                <string>https://support.apple.com/es-es/HT212585#macos124</string>
               </dict>
               <dict>
                 <key>_language</key>
                 <string>fr</string>
                 <key>aboutUpdateURL</key>
-                <string>https://support.apple.com/fr-fr/HT212585#macos1221</string>
+                <string>https://support.apple.com/fr-fr/HT212585#macos124</string>
               </dict>
               <dict>
                 <key>_language</key>
                 <string>de</string>
                 <key>aboutUpdateURL</key>
-                <string>https://support.apple.com/de-de/HT212585#macos1221</string>
+                <string>https://support.apple.com/de-de/HT212585#macos124</string>
               </dict>
             </array>
             <key>majorUpgradeAppPath</key>
             <string>/Applications/Install macOS Monterey.app</string>
             <key>requiredInstallationDate</key>
-            <date>2022-07-31T00:00:00Z</date>
+            <date>2022-08-12T00:00:00Z</date>
             <key>requiredMinimumOSVersion</key>
             <string>12.4</string>
             <key>targetedOSVersionsRule</key>
@@ -87,7 +87,7 @@
           <key>approachingRefreshCycle</key>
           <integer>6000</integer>
           <key>approachingWindowTime</key>
-          <integer>72</integer>
+          <integer>144</integer>
           <key>elapsedRefreshCycle</key>
           <integer>300</integer>
           <key>imminentRefreshCycle</key>
